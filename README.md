@@ -13,7 +13,7 @@ Exploring Relationships: I delved into the relationships between different varia
 
 Answering the Key Question: One of the primary objectives of the project was to answer the question, "What are the locations with the fastest roller coasters (with a minimum of 10 roller coasters at that location)?" I used Python's data manipulation and filtering capabilities to arrive at a meaningful answer to this question.
 
-Learning Experience
+Learning Experience:
 This project has been an incredible learning experience for me. Working with Python, pandas, Matplotlib, and Seaborn allowed me to gain hands-on experience in data manipulation, analysis, and visualization. I discovered various features and capabilities of these libraries, enabling me to perform data-driven analyses with confidence.
 
 Throughout the project, I honed my skills in data cleaning, handling missing data, and extracting meaningful insights from a vast dataset. I also became proficient in using Matplotlib and Seaborn to create captivating visualizations, making the analysis process more engaging and effective.
